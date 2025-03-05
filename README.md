@@ -8,8 +8,8 @@ Soy Ingeniero de Datos con experiencia en Business Intelligence, procesamiento d
 Mapa interactivo de establecimientos de salud en Chile. Explóralo en [Streamlit](https://establecimientos-salud-chile.streamlit.app/).
 
 ## 🛠️ Tecnologías
-- **Lenguajes:** Python, SQL, Go
-- **Herramientas:** dbt, Airflow, Terraform, Power BI
+- **Lenguajes:** Python, SQL, Bash
+- **Herramientas:** dbt, Airflow, Terraform, Power BI, Qlik
 - **Cloud:** AWS, Snowflake
 
 
